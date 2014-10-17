@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mtg:home|Door43 (mtg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mtg|d43-mtg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mtg/archive/master.zip|d43-mtg.zip]]
+
+**Recent Changes**
+{{changes>ns = mtg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mtg|Ethnologue data]]
+
